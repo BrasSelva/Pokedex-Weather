@@ -1,0 +1,14 @@
+# Fichiers Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build / Debug
+bin/
+obj/
+*.log
+
+# Secrets / cache
+*.db
+*.sqlite
+.env
